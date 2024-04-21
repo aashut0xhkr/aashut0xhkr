@@ -146,24 +146,6 @@ I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, whil
 
 ### 🔝 Top Contributed Repo
 ![.](https://github-contributor-stats.vercel.app/api?username=aashut0xhkrlimit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<!--😂💬JOKETITLE / 🌐WEBSITE: https://textanim.com/ -->
-<img src="https://i.imgur.com/vKOQi1L.gif" height="30" width="150">
-
-<!--🤣JOYEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30">
-
-<p align="left">
-<!--💬🃏QUOTESCARD / 🌐WEBSITE: https://github.com/PiyushSuthar/github-readme-quotes#Demo & https://github.com/shravan20/github-readme-quotes -->
-<img src="https://camo.githubusercontent.com/8a7a51548b2c84fc3e34153a4b25983d67f66daf7973920f7c410fcf719f4643/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d766572746963616c267468656d653d6d65726b6f">                                              
-<!--🃏MEMEPHOTOS / 🌐WEBSITE: https://github.com/trinib/random-memer -->
-<img src="https://camo.githubusercontent.com/d809aad38fc10dac3806149506748f6c116f4602e9df8e0e93de1819b4d901ae/68747470733a2f2f6d656d65722d7472696e69622e76657263656c2e6170702f" width="260px"/>
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  
-![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff) ![](https://camo.githubusercontent.com/4724bb0207102e95a2b4ae8a61b2286022f7859aa029e83aad5389942e5a7793/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f496f75306737746c45346b6d6569535438592f323030772e776562703f6369643d6563663035653437646b6232633767707a6b65716a79736d6e7a3662627471717671636d656464776c62346a707a63352665703d76315f737469636b6572735f736561726368267269643d3
  
 ## 🌐 Socials: <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aashut0xh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aashut0xh)
