@@ -145,7 +145,6 @@ I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, whil
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
-![.](https://github-contributor-stats.vercel.app/api?username=aashut0xhkrlimit=5&theme=gruvbox&combine_all_yearly_contributions=true)
  
 ## 🌐 Socials: <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aashut0xh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aashut0xh)
