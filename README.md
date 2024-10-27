@@ -19,7 +19,7 @@ I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, whil
 ✔  💬 Ask me about Python,HTML, CSS, C++,Java<br>
 ✔  📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/aashut0xh/),If I am alive I will answer within seconds 😉<br>
 ✔  📚 &nbsp; When I am free, I sleep  and play cricket.<br>
-✔ ⚡ &nbsp; Fun fact: I started investing after watching scam 1992.😉
+✔ ⚡ &nbsp; Fun fact: Octopuses have three hearts!.😉
 <br>
 
 <h3 id="skills"> ## 💻  My Tech Stack : </h3>
