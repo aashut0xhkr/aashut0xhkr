@@ -18,7 +18,7 @@ I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, whil
 
 ✔  🔭 &nbsp; I’m currently working on Java Backend Development.<br>
 ✔  🤝 &nbsp;  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient.<br>
-✔  💬 Ask me about Java<br>
+✔  💬 Ask me about Java.<br>
 ✔  📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/aashut0xh/),If I am alive I will answer within seconds 😉<br>
 ✔  📚 &nbsp; When I am free, I sleep  and play games.<br>
 ✔ ⚡ &nbsp; Fun fact: Octopuses have three hearts!.😉
