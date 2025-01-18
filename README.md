@@ -12,13 +12,15 @@ I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, whil
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 
-✔  🔭 &nbsp; I’m currently working on Java Backend Development.
+***About me ....***
+
+✔  🔭 &nbsp; I’m currently working on Java Backend Development.<br>
 ✔  🤝 &nbsp;  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient.<br>
 ✔  💬 Ask me about Java<br>
 ✔  📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/aashut0xh/),If I am alive I will answer within seconds 😉<br>
-✔  📚 &nbsp; When I am free, I sleep  and play cricket.<br>
+✔  📚 &nbsp; When I am free, I sleep  and play games.<br>
 ✔ ⚡ &nbsp; Fun fact: Octopuses have three hearts!.😉
 <br>
 
